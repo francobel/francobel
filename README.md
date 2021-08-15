@@ -1,16 +1,36 @@
-### Hi there 👋
+ NAME: Franco Belman </br>
+ EMPLOYER: N/A </br>
+ OCCUPATION: Student </br>
+ INTERESTS: Software Development, Vulnerability Research </br>
+ EDUCATION: A.S. in Computer Science </br>
 
-<!--
-**francobel/francobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                       .,,uod8B8bou,,.
+              ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+        ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+        !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+        !.......:!?|||||!!^^""'            ||||
+        !.........||||                     ||||
+        !.........||||                     ||||
+        !.........||||                     ||||
+        !.........||||         ERROR       ||||
+        !.........||||                     ||||
+        !.........||||                     ||||
+        `.........||||                    ,||||
+         .;.......||||               _.-!!|||||b
+       .,uoBb.....||||       _.-!!|||||||||!:'BBBb
+    !YBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBBBBBBb....
+    !..YBBBBBBBBBb!!||||||||!iof68BBBBBBBBBBBRPFT?!::   `.
+    !....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+    !.F....YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+    !...R....YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+    `.....A....YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+      `.....N.....:::::::::::::::::::::::;.of688888888888b.     `YBBB
+         `.....C..::::::::::::::::;.of688888888888888888888b.     
+           `.....O:::::::::;.of688888888888888888888888888888b.
+             `....:::;.of688888888888888888888888888888888899fT!
+               `..::!8888888888888888888888888888888899fT|!^"'
+                 `' !!988888888888888888888888899fT|!^"'
+                     `!!8888888888888888899fT|!^"'
+                       `!988888888899fT|!^"'
+                         `!9899fT|!^"'
+                           `!^"'
