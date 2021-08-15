@@ -1,8 +1,10 @@
- NAME: Franco Belman </br>
- EMPLOYER: N/A </br>
- OCCUPATION: Student </br>
- INTERESTS: Software Development, Vulnerability Research </br>
- EDUCATION: A.S. in Computer Science </br>
+ Query         | Response
+-----------:  | :-----------
+NAME          | Franco Belman
+EMPLOYER      | N/A
+OCCUPATION    | Student
+INTERESTS     | Software Development </br> Vulnerability Research
+EDUCATION     | A.S. in Computer Science
 
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
